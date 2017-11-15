@@ -1,0 +1,13 @@
+name: PredictiveKeyboard
+title: PredictiveKeyboard
+username:
+account: stellali
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235782
+bundleId: 1077203
+url: https://stellali.shinyapps.io/PredictiveKeyboard/
+when: 1510771191.38135
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: do-not-use-GetNext.R|Presentation-rpubs.html|Presentation.md|Presentation.Rpres|searchflow.png|Tab1Intro.html|Tab1Intro.Rmd|Tab2Intro.html|Tab2Intro.Rmd|Tab3Intro.html|Tab3Intro.Rmd|userinterface.png|Presentation-figure/unnamed-chunk-1-1.png|Presentation-figure/unnamed-chunk-2-1.png
